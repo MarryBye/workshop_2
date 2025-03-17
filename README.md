@@ -10,6 +10,6 @@
 
 ## Виконана робота:
 
-![](https://github.com/MarryBye/workshop_2/blob/main/images/Figma.svg)
+![](https://raw.githubusercontent.com/MarryBye/workshop_2/refs/heads/master/images/Figma.svg)
 
 ****
